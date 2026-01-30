@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """
-WiFi-Demon v1.0
+WiFi-Demon v2.0
 A comprehensive WiFi penetration testing toolkit
-Author: n0merc
-GitHub: https://github.com/n0merc/wifi-demon
 """
 
 import os
@@ -360,4 +358,5 @@ if __name__ == "__main__":
         print(f"\n{Fore.RED}[!] Tool terminated by user{Style.RESET_ALL}")
         # Cleanup
         subprocess.run(['airmon-ng', 'check', 'kill'], stdout=subprocess.DEVNULL)
+
         sys.exit(0)
