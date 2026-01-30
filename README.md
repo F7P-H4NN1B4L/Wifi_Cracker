@@ -1,4 +1,4 @@
-# 🐉 WiFi-Demon v2.0
+# 🐉 WiFi-Cracker v2.0
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/F7P-H4NN1B4L/WiFi-Demon?style=flat&logo=github">
