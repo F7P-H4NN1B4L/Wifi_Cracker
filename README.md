@@ -63,10 +63,9 @@ Unauthorized usage is strictly prohibited.
 
 ## ⚙️ Installation
 
-### Clone Repository
 
 ```bash
-git clone https://github.com/F7P-H4NN1B4L/WiFi-Demon.git
+git clone https://github.com/F7P-H4NN1B4L/WiFi-Cracker.git
 cd WiFi-Demon
 Install Dependencies
 Always show details
@@ -78,6 +77,7 @@ Run Tool
 Always show details
 
 sudo python3 wifi_demon.py
+
 ---
 ## 🧰 Features
 WiFi Network Scanner
@@ -89,14 +89,17 @@ Password Audit Simulation
 Interface Information Tool
 
 Deauthentication Awareness Simulation
+
 ---
 ## 👨‍💻 Authors
 
 Original Developer: n0merc
 Modified Version: F7P-H4NN1B4L
+
 ---
 ## 📜 License
-Educational and research purposes only.
+Educational and research purposes only. MIT
+
 ---
 <p align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=%E2%98%A0%EF%B8%8F+Z3R0D4Y+TEAM" />  
