@@ -1,12 +1,13 @@
 # 🐉 WiFi-Demon v2.0
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/F7P-H4NN1B4L/WiFi-Demon?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/F7P-H4NN1B4L/WiFi-Demon?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/F7P-H4NN1B4L/WiFi-Demon?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Platform-Linux-red?style=for-the-badge&logo=linux">
-  <img src="https://img.shields.io/badge/Tested-Kali_Linux-purple?style=for-the-badge&logo=kalilinux">
+  <img src="https://img.shields.io/github/stars/F7P-H4NN1B4L/WiFi-Demon?style=flat&logo=github">
+  <img src="https://img.shields.io/github/forks/F7P-H4NN1B4L/WiFi-Demon?style=flat&logo=github">
+  <img src="https://img.shields.io/github/issues/F7P-H4NN1B4L/WiFi-Demon?style=flat&logo=github">
+  <br>
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-Supported-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Tested-Kali-557C94?style=flat&logo=kalilinux">
 </p>
 
 ---
