@@ -1,7 +1,6 @@
 # 🐉 WiFi-Cracker v2.0
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/F7P-H4NN1B4L/WiFi-Demon?style=flat&logo=github">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-Supported-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Tested-Kali-557C94?style=flat&logo=kalilinux">
