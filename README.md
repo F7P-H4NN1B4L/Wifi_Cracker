@@ -68,8 +68,8 @@ Unauthorized usage is strictly prohibited.
 ```bash
 git clone https://github.com/F7P-H4NN1B4L/WiFi-Cracker.git
 cd WiFi-Demon
-pip3 install -r requirements.txt
-sudo python3 wifi_demon.py
+pip3 install -r requirements.txt --break-system-packages
+sudo python3 wWfi_Cracker.py
 ```
 
 ---
