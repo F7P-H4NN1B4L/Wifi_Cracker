@@ -32,7 +32,7 @@ LOGO = f"""
                ╚██████╗██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
                 ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 {Fore.CYAN}
-                Created by n0merc and edited by F7P-H4NN1B4L
+                Created by n0merc and F7P-H4NN1B4L
         https://github.com/F7P-H4NN1B4L
 {Style.RESET_ALL}
 """
@@ -361,4 +361,5 @@ if __name__ == "__main__":
         subprocess.run(['airmon-ng', 'check', 'kill'], stdout=subprocess.DEVNULL)
 
         sys.exit(0)
+
 
