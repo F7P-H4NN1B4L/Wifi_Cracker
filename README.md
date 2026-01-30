@@ -68,16 +68,10 @@ Unauthorized usage is strictly prohibited.
 ```bash
 git clone https://github.com/F7P-H4NN1B4L/WiFi-Cracker.git
 cd WiFi-Demon
-Install Dependencies
+pip3 install -r requirements.txt
 Always show details
-```
----
-sudo apt update
-sudo apt install aircrack-ng wireless-tools python3-colorama
-Run Tool
-Always show details
-
 sudo python3 wifi_demon.py
+```
 
 ---
 ## 🧰 Features
