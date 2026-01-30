@@ -69,7 +69,6 @@ Unauthorized usage is strictly prohibited.
 git clone https://github.com/F7P-H4NN1B4L/WiFi-Cracker.git
 cd WiFi-Demon
 pip3 install -r requirements.txt
-Always show details
 sudo python3 wifi_demon.py
 ```
 
